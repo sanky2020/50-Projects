@@ -1,6 +1,6 @@
 # 50-Projects
 
-* Expanding Cards <a href="./Day1 - Expanding Cards/index.html">click here</a>
+* Expanding Cards <a href="https://sanky2020.github.io/50-Projects/Day1%20-%20Expanding%20Cards/" target="_blank">click here</a>
 
 * Progress Steps
 
