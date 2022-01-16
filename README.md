@@ -1,6 +1,6 @@
 # 50-Projects
 
-* Expanding Cards
+* Expanding Cards <a href="./Day1 - Expanding Cards/index.html">click here</a>
 
 * Progress Steps
 
