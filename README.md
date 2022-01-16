@@ -2,8 +2,8 @@
 
 * Expanding Cards <a href="https://sanky2020.github.io/50-Projects/Day1%20-%20Expanding%20Cards/" target="_blank">Live Preview</a>
 
-* Progress Steps
+* Progress Steps Live Preview
 
-* Rotating Page
+* Rotating Page Live Preview
 
-* Hidden Search
+* Hidden Search Live Preview
