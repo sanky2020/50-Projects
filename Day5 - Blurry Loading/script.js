@@ -6,15 +6,18 @@ let load = 0
 let int = setInterval(blurring, 30)
 
 function blurring() {
-  load++
+  load++;
 
-  if (load > 99) {
-    clearInterval(int)
+  if (load >= 100) {
+    console.log(load);
+    clearInterval(int);
   }
 
-  loadText.innerText = `${load}%`
-  loadText.style.opacity = scale(load, 0, 100, 1, 0)
-  bg.style.filter = `blur(${scale(load, 0, 100, 30, 0)}px)`
+  loadText.innerText = `${load}%`;
+  
+  //opacity ranges from 0 to 1
+  loadText.style.opacity = scale(load, 0, 100, 1, 0);
+  bg.style.filter = `blur(${scale(load, 0, 100, 50, 0)}px)`;
 }
 
 // https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers
