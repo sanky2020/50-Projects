@@ -7,3 +7,5 @@
 * Rotating Page => <a href="https://sanky2020.github.io/50-Projects/Day3%20-%20Rotating%20Page/" target="_blank">Live Preview</a>
 
 * Hidden Search => <a href="https://sanky2020.github.io/50-Projects/Day4%20-%20Hidden%20Search/" target="_blank">Live Preview</a>
+
+* Blurry Loading => <a href="https://sanky2020.github.io/50-Projects/Day5%20-%20Blurry%20Loading" target="_blank">Live Preview</a>
