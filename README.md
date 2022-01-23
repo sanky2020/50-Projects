@@ -15,3 +15,4 @@
 ![image](https://user-images.githubusercontent.com/69984129/150636009-26db7f28-75b7-4e36-ab21-e3961030ab61.png)
 
 * Scroll Animation => <a href="https://sanky2020.github.io/50-Projects/Day6%20-%20Scroll%20Animation" target="_blank">Live Preview</a>
+![image](https://user-images.githubusercontent.com/69984129/150696071-6f5336a0-9854-4ad0-a26d-d18baed5aeb6.png)
