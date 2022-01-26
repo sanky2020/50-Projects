@@ -16,3 +16,5 @@
 
 * Scroll Animation => <a href="https://sanky2020.github.io/50-Projects/Day6%20-%20Scroll%20Animation" target="_blank">Live Preview</a>
 ![image](https://user-images.githubusercontent.com/69984129/150696071-6f5336a0-9854-4ad0-a26d-d18baed5aeb6.png)
+
+* Split Landing Page => <a href="https://sanky2020.github.io/50-Projects/Day7%20-%20Split%20Landing%20Page" target="_blank">Live Preview</a>
