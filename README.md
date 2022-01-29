@@ -20,3 +20,5 @@
 * Split Landing Page => <a href="https://sanky2020.github.io/50-Projects/Day7%20-%20Split%20Landing%20Page/" target="_blank">Live Preview</a>
 ![image](https://user-images.githubusercontent.com/69984129/151374836-c0218852-2ed9-4798-abae-492e3ce15120.png)
 
+* Form Input Wave => <a href="https://sanky2020.github.io/50-Projects/Day8%20-%20Form%20Input%20Wave/" target="_blank">Live Preview</a>
+![image](https://user-images.githubusercontent.com/69984129/151669139-3eb15b2a-9a4e-4ff1-ae1e-8f03e3d02437.png)
