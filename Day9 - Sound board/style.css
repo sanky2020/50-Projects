@@ -28,9 +28,13 @@ body {
   font-family: inherit;
   cursor: pointer;
   outline: none;
+  box-shadow: 0 5px 10px #fff;
 }
 
 .btn:hover {
   opacity: 0.8;
-  transform: scale(0.98);
+}
+.btn:active{
+  transform: scale(0.95);
+  background-color: rgb(87, 110, 87);
 }
