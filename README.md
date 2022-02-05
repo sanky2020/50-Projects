@@ -22,3 +22,6 @@
 
 * Form Input Wave => <a href="https://sanky2020.github.io/50-Projects/Day8%20-%20Form%20Input%20Wave/" target="_blank">Live Preview</a>
 ![image](https://user-images.githubusercontent.com/69984129/151669139-3eb15b2a-9a4e-4ff1-ae1e-8f03e3d02437.png)
+
+* Sound Board => <a href="https://sanky2020.github.io/50-Projects/Day9%20-%20Sound%20board" target="_blank">Live Preview</a>
+* ![image](https://user-images.githubusercontent.com/69984129/152646699-1ebd416c-131a-4808-a697-17c800ae501e.png)
