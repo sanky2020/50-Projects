@@ -24,4 +24,7 @@
 ![image](https://user-images.githubusercontent.com/69984129/151669139-3eb15b2a-9a4e-4ff1-ae1e-8f03e3d02437.png)
 
 * Sound Board => <a href="https://sanky2020.github.io/50-Projects/Day9%20-%20Sound%20board" target="_blank">Live Preview</a>
-* ![image](https://user-images.githubusercontent.com/69984129/152646699-1ebd416c-131a-4808-a697-17c800ae501e.png)
+ ![image](https://user-images.githubusercontent.com/69984129/152646699-1ebd416c-131a-4808-a697-17c800ae501e.png)
+
+* Dad Jokes => <a href="https://sanky2020.github.io/50-Projects/Day10%20-%20Dad%20Jokes/" target="_blank">Live Preview</a>
+![image](https://user-images.githubusercontent.com/69984129/152646950-de74da97-f97e-4d37-a426-97f13a2412ba.png)
