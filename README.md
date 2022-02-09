@@ -31,3 +31,6 @@
 
 * Event KeyCodes => <a href="https://sanky2020.github.io/50-Projects/Day11%20-%20Event%20KeyCodes/" target="_blank">Live Preview</a>
 ![image](https://user-images.githubusercontent.com/69984129/152966119-a4dc354d-66ed-466f-91a7-f7d0ab008ac5.png)
+
+* FAQ Collapse => <a href="https://sanky2020.github.io/50-Projects/Day12%20-%20FAQ%20Collapse/" target="_blank">Live Preview</a>
+![image](https://user-images.githubusercontent.com/69984129/153268557-656efbdd-6a69-4493-be11-1fdf9490edef.png)
