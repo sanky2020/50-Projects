@@ -1,4 +1,4 @@
-# 50-Projects
+# 50-Projects with live preview link
 * Expanding Cards => <a href="https://sanky2020.github.io/50-Projects/Day1%20-%20Expanding%20Cards/" target="_blank">Live Preview</a>
 ![image](https://user-images.githubusercontent.com/69984129/150635922-759115f7-78dd-489e-b0fe-8136cbfd80c7.png)
 
