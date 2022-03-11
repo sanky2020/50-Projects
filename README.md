@@ -34,3 +34,6 @@
 
 * FAQ Collapse => <a href="https://sanky2020.github.io/50-Projects/Day12%20-%20FAQ%20Collapse/" target="_blank">Live Preview</a>
 ![image](https://user-images.githubusercontent.com/69984129/153268557-656efbdd-6a69-4493-be11-1fdf9490edef.png)
+
+* Random Choice Picker => <a href="https://sanky2020.github.io/50-Projects/Day13%20-%20Random%20Choice%20Picker/" target="_blank">Live Preview</a>
+![image](https://user-images.githubusercontent.com/69984129/157805020-034b7cab-a79d-40dd-9993-7f7a97719c40.png)
