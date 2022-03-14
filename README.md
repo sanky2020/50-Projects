@@ -37,3 +37,7 @@
 
 * Random Choice Picker => <a href="https://sanky2020.github.io/50-Projects/Day13%20-%20Random%20Choice%20Picker/" target="_blank">Live Preview</a>
 ![image](https://user-images.githubusercontent.com/69984129/157805020-034b7cab-a79d-40dd-9993-7f7a97719c40.png)
+
+* Animated Navigation => <a href="https://sanky2020.github.io/50-Projects/Day14%20-%20Animated%20Navigation/" target="_blank">Live Preview</a>
+ ![image](https://user-images.githubusercontent.com/69984129/158227667-4a9fdc0d-228a-44a6-b132-aa30b7ff54f0.png)
+
