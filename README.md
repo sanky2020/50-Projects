@@ -41,3 +41,6 @@
 * Animated Navigation => <a href="https://sanky2020.github.io/50-Projects/Day14%20-%20Animated%20Navigation/" target="_blank">Live Preview</a>
  ![image](https://user-images.githubusercontent.com/69984129/158227667-4a9fdc0d-228a-44a6-b132-aa30b7ff54f0.png)
 
+* Incrementing Counter => <a href="https://sanky2020.github.io/50-Projects/Day15%20-%20Incrementing%20Counter/" target="_blank">Live Preview</a>
+![image](https://user-images.githubusercontent.com/69984129/158398692-49e89f2e-7cd5-4f74-8718-e3ab6adb9e47.png)
+
